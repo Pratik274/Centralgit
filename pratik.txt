@@ -9,3 +9,4 @@ int main() {
     printf("bye");
     return 0;
 }
+well done
